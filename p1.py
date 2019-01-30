@@ -1,2 +1,4 @@
-def fu(self, parameter_list):
-    pass
+def fun(a,b):
+    return a+b
+
+print(fun(23,34))
