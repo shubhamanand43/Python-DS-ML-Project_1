@@ -1,4 +1,6 @@
 def fun(a,b):
     return a+b
 
-print(fun(23,546))
+t =  int(input('give one --> '))
+print(fun(23,t))
+
